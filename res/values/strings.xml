@@ -5,8 +5,26 @@
     <string name="your_weight">体重 (kg)</string>
     <string name="your_count">计算 BMI 值</string>
     <string name="bmi_result">你的 BMI 值是 </string>
+
     <string name="advice_light">你該多吃點</string>
     <string name="advice_average">體型很棒喔</string>
     <string name="advice_heavy">你該節食了</string>
     <string name="bmi_error">非法输入!!</string>
+
+    <string name="whostandard">18.5:25.0:30.0:35.0:40.0</string>
+    <string name="asiastandard">18.5:23.0:25.0:30.0:40.0</string>
+    <string name="chinastandard">18.5:24.0:27.0:30.0:40.0</string>
+
+    <string name="lang_zh">中文</string>
+    <string name="lang_eng">English</string>
+
+    <string name="who_std">who</string>
+    <string name="asia_std">asia</string>
+    <string name="china_std">china</string>
+
+    <string name="menu_save">Save</string>
+    <string name="menu_back">Back</string>
+    <string name="menu_history">History</string>
+    <string name="menu_set">setting</string>
+    <string name="menu_quit">quit</string>
 </resources>
