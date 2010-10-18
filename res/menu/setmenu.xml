@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : setmenu.xml
+    Created on : October 12, 2010, 1:35 PM
+    Author     : yxdeng
+    Description:
+        Purpose of the document follows.
+-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_save_id"
+          android:title="@string/menu_save"/>
+    <item android:id="@+id/menu_back_id"
+          android:title="@string/menu_back"/>
+</menu>

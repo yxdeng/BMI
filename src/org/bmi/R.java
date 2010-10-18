@@ -8,27 +8,67 @@
 package org.bmi;
 
 public final class R {
+    public static final class array {
+        public static final int bmimenu=0x7f030002;
+        public static final int langitems=0x7f030000;
+        public static final int setmenu=0x7f030003;
+        public static final int standitems=0x7f030001;
+    }
     public static final class attr {
     }
     public static final class id {
-        public static final int height=0x7f040000;
-        public static final int result=0x7f040003;
-        public static final int submit=0x7f040002;
-        public static final int suggest=0x7f040004;
-        public static final int weight=0x7f040001;
+        public static final int height=0x7f060003;
+        public static final int history_content=0x7f060002;
+        public static final int history_username=0x7f060000;
+        public static final int languagelabel=0x7f06000b;
+        public static final int languagetext=0x7f06000c;
+        public static final int menu_back_id=0x7f060013;
+        public static final int menu_history_id=0x7f060010;
+        public static final int menu_quit_id=0x7f060011;
+        public static final int menu_save_id=0x7f060012;
+        public static final int menu_set_id=0x7f06000f;
+        public static final int result=0x7f060006;
+        public static final int standardlabel=0x7f06000d;
+        public static final int standardtext=0x7f06000e;
+        public static final int submit=0x7f060005;
+        public static final int suggest=0x7f060007;
+        public static final int usernamelabel=0x7f060009;
+        public static final int usernametext=0x7f06000a;
+        public static final int weight=0x7f060004;
+        public static final int widget0=0x7f060008;
+        public static final int widget31=0x7f060001;
     }
     public static final class layout {
-        public static final int main=0x7f020000;
+        public static final int historyview=0x7f020000;
+        public static final int main=0x7f020001;
+        public static final int settingview=0x7f020002;
+    }
+    public static final class menu {
+        public static final int bmimenu=0x7f050000;
+        public static final int setmenu=0x7f050001;
     }
     public static final class string {
-        public static final int advice_average=0x7f030006;
-        public static final int advice_heavy=0x7f030007;
-        public static final int advice_light=0x7f030005;
-        public static final int app_name=0x7f030000;
-        public static final int bmi_error=0x7f030008;
-        public static final int bmi_result=0x7f030004;
-        public static final int your_count=0x7f030003;
-        public static final int your_height=0x7f030001;
-        public static final int your_weight=0x7f030002;
+        public static final int advice_average=0x7f040006;
+        public static final int advice_heavy=0x7f040007;
+        public static final int advice_light=0x7f040005;
+        public static final int app_name=0x7f040000;
+        public static final int asia_std=0x7f04000f;
+        public static final int asiastandard=0x7f04000a;
+        public static final int bmi_error=0x7f040008;
+        public static final int bmi_result=0x7f040004;
+        public static final int china_std=0x7f040010;
+        public static final int chinastandard=0x7f04000b;
+        public static final int lang_eng=0x7f04000d;
+        public static final int lang_zh=0x7f04000c;
+        public static final int menu_back=0x7f040012;
+        public static final int menu_history=0x7f040013;
+        public static final int menu_quit=0x7f040015;
+        public static final int menu_save=0x7f040011;
+        public static final int menu_set=0x7f040014;
+        public static final int who_std=0x7f04000e;
+        public static final int whostandard=0x7f040009;
+        public static final int your_count=0x7f040003;
+        public static final int your_height=0x7f040001;
+        public static final int your_weight=0x7f040002;
     }
 }
