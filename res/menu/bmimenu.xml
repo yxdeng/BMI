@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : bmimenu.xml
+    Created on : October 12, 2010, 12:34 PM
+    Author     : yxdeng
+    Description:
+        Purpose of the document follows.
+-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_set_id"
+          android:title="@string/menu_set"/>
+
+    <item android:id="@+id/menu_history_id"
+          android:title="@string/menu_history"/>
+
+    <item android:id="@+id/menu_quit_id"
+          android:title="@string/menu_quit"/>
+
+</menu>

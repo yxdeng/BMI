@@ -27,4 +27,6 @@
     <string name="menu_history">History</string>
     <string name="menu_set">setting</string>
     <string name="menu_quit">quit</string>
+
+    <string name="empty">No history!</string>
 </resources>

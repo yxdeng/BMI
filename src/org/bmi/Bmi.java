@@ -5,6 +5,7 @@
 package org.bmi;
 
 import android.app.Activity;
+//import android.app.ListActivity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -58,7 +59,8 @@ public class Bmi extends Activity {
                 finish();
                 break;
             case R.id.menu_history_id:
-                showHistoryView();
+//                showHistoryView();
+                showHistory();
                 break;
 //                openMyTest();
 //                break;
@@ -68,6 +70,11 @@ public class Bmi extends Activity {
 
     private void openSettingView() {
         Intent intent = new Intent(this, org.bmi.view.Setting.class);
+        startActivity(intent);
+    }
+
+    private void showHistory(){
+        Intent intent = new Intent(this, org.bmi.BmiHistory.class);
         startActivity(intent);
     }
 

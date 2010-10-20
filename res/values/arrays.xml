@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+   <array name="langitems">
+      <item>@string/lang_zh</item>
+      <item>@string/lang_eng</item>
+   </array>
+
+   <array name="standitems">
+      <item>@string/who_std</item>
+      <item>@string/asia_std</item>
+      <item>@string/china_std</item>
+   </array>
+
+   <array name="bmimenu">
+      <item>@string/menu_set</item>
+      <item>@string/menu_quit</item>
+   </array>
+   
+   <array name="setmenu">
+      <item>@string/menu_save</item>
+      <item>@string/menu_back</item>
+   </array>
+</resources>

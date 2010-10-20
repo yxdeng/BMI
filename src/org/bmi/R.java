@@ -17,31 +17,37 @@ public final class R {
     public static final class attr {
     }
     public static final class id {
-        public static final int height=0x7f060003;
-        public static final int history_content=0x7f060002;
-        public static final int history_username=0x7f060000;
-        public static final int languagelabel=0x7f06000b;
-        public static final int languagetext=0x7f06000c;
-        public static final int menu_back_id=0x7f060013;
-        public static final int menu_history_id=0x7f060010;
-        public static final int menu_quit_id=0x7f060011;
-        public static final int menu_save_id=0x7f060012;
-        public static final int menu_set_id=0x7f06000f;
-        public static final int result=0x7f060006;
-        public static final int standardlabel=0x7f06000d;
-        public static final int standardtext=0x7f06000e;
-        public static final int submit=0x7f060005;
-        public static final int suggest=0x7f060007;
-        public static final int usernamelabel=0x7f060009;
-        public static final int usernametext=0x7f06000a;
-        public static final int weight=0x7f060004;
-        public static final int widget0=0x7f060008;
-        public static final int widget31=0x7f060001;
+        public static final int height=0x7f060007;
+        public static final int his_id=0x7f060000;
+        public static final int his_result=0x7f060003;
+        public static final int his_time=0x7f060002;
+        public static final int his_username=0x7f060001;
+        public static final int history_content=0x7f060006;
+        public static final int history_username=0x7f060004;
+        public static final int languagelabel=0x7f06000f;
+        public static final int languagetext=0x7f060010;
+        public static final int menu_back_id=0x7f060017;
+        public static final int menu_history_id=0x7f060014;
+        public static final int menu_quit_id=0x7f060015;
+        public static final int menu_save_id=0x7f060016;
+        public static final int menu_set_id=0x7f060013;
+        public static final int result=0x7f06000a;
+        public static final int standardlabel=0x7f060011;
+        public static final int standardtext=0x7f060012;
+        public static final int submit=0x7f060009;
+        public static final int suggest=0x7f06000b;
+        public static final int usernamelabel=0x7f06000d;
+        public static final int usernametext=0x7f06000e;
+        public static final int weight=0x7f060008;
+        public static final int widget0=0x7f06000c;
+        public static final int widget31=0x7f060005;
     }
     public static final class layout {
-        public static final int historyview=0x7f020000;
-        public static final int main=0x7f020001;
-        public static final int settingview=0x7f020002;
+        public static final int history=0x7f020000;
+        public static final int history_item=0x7f020001;
+        public static final int historyview=0x7f020002;
+        public static final int main=0x7f020003;
+        public static final int settingview=0x7f020004;
     }
     public static final class menu {
         public static final int bmimenu=0x7f050000;
@@ -58,6 +64,7 @@ public final class R {
         public static final int bmi_result=0x7f040004;
         public static final int china_std=0x7f040010;
         public static final int chinastandard=0x7f04000b;
+        public static final int empty=0x7f040016;
         public static final int lang_eng=0x7f04000d;
         public static final int lang_zh=0x7f04000c;
         public static final int menu_back=0x7f040012;

@@ -9,5 +9,6 @@
             </intent-filter>
         </activity>
         <activity android:name="org.bmi.view.Setting"/>
+        <activity android:name="org.bmi.BmiHistory"/>
     </application>
 </manifest>
